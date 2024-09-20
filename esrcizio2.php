@@ -18,7 +18,7 @@
         echo "<br>";
         echo "<p>I giorni sono $giorni</p>";
         echo "<br>";
-        echo "<h2>L'interesse calcolato è di ".$tasso."€</h2>"
+        echo "<h2 style='color: green'>L'interesse calcolato è di ".$tasso."€</h2>"
     ?>
 </body>
 </html>
